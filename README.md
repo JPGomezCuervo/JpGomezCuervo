@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 ## 📄 ¿Quién soy? 📄
 Soy un desarrollador web full stack con una gran capacidad para aprender nuevas habilidades y crear productos atractivos y valiosos.
 
@@ -23,4 +20,3 @@ Hoy, soy un graduado del bootcamp de Henry y estoy ansioso por aplicar todos mis
 ☎️
 Email: jpgcr0@gmail.com
 Github: [https://github.com/JPGomezCuervo](https://github.com/JPGomezCuervo)
-
