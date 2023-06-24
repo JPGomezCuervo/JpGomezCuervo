@@ -18,5 +18,5 @@ Hoy, soy un graduado del bootcamp de Henry y estoy ansioso por aplicar todos mis
 - ✔ 𝘋𝘪𝘴𝘦𝘯̃𝘰 → Figma
 
 ☎️
-Email: jpgcr0@gmail.com
+Email: jpgomezcuervo@gmail.com
 Github: [https://github.com/JPGomezCuervo](https://github.com/JPGomezCuervo)
