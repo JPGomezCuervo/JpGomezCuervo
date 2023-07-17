@@ -20,4 +20,5 @@ Hoy, soy un graduado del bootcamp de Henry y estoy ansioso por aplicar todos mis
 ☎️
 Email: jpgomezcuervo@gmail.com /n 
 Github: [https://github.com/JPGomezCuervo](https://github.com/JPGomezCuervo)
+<br>
 Portfolio: https://portfolio-juangomez.vercel.app/
