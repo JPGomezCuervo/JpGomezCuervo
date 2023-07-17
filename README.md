@@ -11,7 +11,7 @@ Hoy, soy un graduado del bootcamp de Henry y estoy ansioso por aplicar todos mis
 
 ## 📈 ¿Qué tecnologías manejo?
 - ✔ 𝘓𝘦𝘯𝘨𝘶𝘢𝘫𝘦𝘴 → JavaScript, HTML5, CSS3, SQL
-- ✔ 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 → React, Redux
+- ✔ 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 → Vue, React, Redux
 - ✔ 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 & 𝘖𝘙𝘔 → Node.js, Express.js, Sequelize
 - ✔ 𝘉𝘢𝘴𝘦𝘴 𝘥𝘦 𝘋𝘢𝘵𝘰𝘴 → PostgreSQL
 - ✔ 𝘊𝘰𝘯𝘵𝘳𝘰𝘭 𝘥𝘦 𝘝𝘦𝘳𝘴𝘪𝘰𝘯𝘦𝘴 → Git, GitHub
